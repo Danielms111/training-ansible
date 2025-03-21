@@ -138,6 +138,9 @@ http://13.95.88.126:8787
 ```
 > **Nota:** Reemplaza `13.95.88.126` con la IP pública de tu VM.
 
+![image](https://github.com/user-attachments/assets/5d5de2b6-6b98-4b2a-8bc9-e8b14d0df1a6)
+
+
 ---
 
 ## **Notas Finales**
